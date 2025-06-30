@@ -1,0 +1,2 @@
+[9212:14564:0902/222948.062:VERBOSE1:installer.cc(383)] "C:\Users\UJJWAL\Desktop\ChromeSetup.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={44615049-DBD4-0B0E-BD2B-BC8DEF212F90}&lang=en&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=x64-statsdef_1&brand=VIQF&installdataindex=empty --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/updater/*=2
+[9212:14564:0902/223048.059:VERBOSE1:installer.cc(488)] Metainstaller WMain returned: 73500, Windows error: 0
